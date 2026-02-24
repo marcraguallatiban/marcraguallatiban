@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am a BSIT student at UM
+I'm a BSIT student at UM
 
 
 # 💻 Tech Stack:
