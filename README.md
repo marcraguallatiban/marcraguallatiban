@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BSIT student at UM
+I'm a BSIT student at UM. Hello Phil.
 
 
 # 💻 Tech Stack:
